@@ -1,7 +1,17 @@
 tags:
+<<<<<<< HEAD
   - readme
   - git
 languages:
   - ruby
 resources:
   - 0
+=======
+  - introduction
+  - basics
+  - lecture
+languages:
+  - ruby
+type:
+  - video
+>>>>>>> 466c3d3e6f934a2c44a13aee23c03d3cf333bc79
